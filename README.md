@@ -49,7 +49,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 Hello React Rails <a name="about-project"></a>
 
-**Hello React Rails** is an app project that I implemented to practice integrating rails with react & redux.
+**Hello Rails** is an app project that I implemented to practice integrating rails with react & redux.
 
 ## 🛠 Built With <a name="built-with"></a>
 
