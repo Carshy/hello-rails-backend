@@ -141,7 +141,7 @@ Edit the default section of the file to look like this:
     - rails s to start the server
     
 - For frontend:
-    - Clone [this repository](https://github.com/Carshy/hello-rails-frontend)
+    - Clone [this repository](https://github.com/Carshy/hello-react-frontend)
     - install dependecies with npm install
     - run npm start to start the server
 
